@@ -1,6 +1,6 @@
 # Bank-Customer-Churn-Prediction (Rakamin Final Project)
 
-## Collaborator:
+## Collaborators:
 - Phillip Stanley
 - Darnell Kikoo
 - Zirrasyi Putra
